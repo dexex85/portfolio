@@ -2,13 +2,13 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-	background color: #A9A9A9;
+	background color: #darkviolet;
 	color: #008080;
 }
 
 header {
-	background-color: #333;
-	color: white;
+	background-color: #greenyellow;
+	color: #008080;
 	padding: 10px 20px;
 	text-align: center;
 }
@@ -19,7 +19,7 @@ nav ul {
 }
 
 nav a {
-	color: white;
+	color: blueviolet;
 	text-decoration: none;
 	margin: 0;
 }
@@ -27,6 +27,6 @@ nav a {
 section {
 	margin: 20px;
 	padding: 20 px;
-	background-color: white;
+	background-color: forestgreen;
 	border-radius: 8px;
 }
